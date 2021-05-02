@@ -508,8 +508,6 @@ Resources:
       Key: JDBC_PASSWORD
       Value:
         Ref: DatabasePassword
-      KmsKeyId:
-        Fn::ImportValue: CfnMasterKey 
   SecretsProvisionerRole:
     Type: AWS::IAM::Role
     Properties:
