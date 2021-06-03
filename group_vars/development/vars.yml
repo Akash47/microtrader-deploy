@@ -29,4 +29,4 @@ Stack.Inputs.ApplicationImageId: ami-062da322730482544
 Stack.Inputs.ApplicationKeyName: karma-docker-production-aws
 
 # ECS task runner settings
-Stack.Inputs.EcsTaskRunnerVersion: rVuUvROBlMttSPJtTv71MIPZnQn8BN0r
+Stack.Inputs.EcsTaskRunnerVersion: qKoWzWP9ARu8SrRy.ewX5FDcK0R4hVl3
