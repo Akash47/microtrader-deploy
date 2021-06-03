@@ -25,8 +25,8 @@ Stack.Inputs.DatabasePassword: super-sceret-password
 
 # Application settings
 Stack.Inputs.ApplicationDnsName: dev-microtrader
-Stack.Inputs.ApplicationImageId: ami-0c24a54138dd439ad
-Stack.Inputs.ApplicationKeyName: docker-aws-production
+Stack.Inputs.ApplicationImageId: ami-062da322730482544
+Stack.Inputs.ApplicationKeyName: karma-docker-production-aws
 
 # ECS task runner settings
 Stack.Inputs.EcsTaskRunnerVersion: rVuUvROBlMttSPJtTv71MIPZnQn8BN0r
